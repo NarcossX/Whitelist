@@ -1,11 +1,3 @@
 {
-    "whitelist": {
-        "53476C965E2E1162604B8D42C670D5F4": {
-            "user_id": 1292267525161353267,
-            "username": "_4css",
-            "added_by_id": 1292267525161353267,
-            "added_by": "_4css",
-            "added_at": "2026-05-08T12:36:31.133846"
-        }
-    }
+    "whitelist": {}
 }
